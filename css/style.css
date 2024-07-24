@@ -1,0 +1,7 @@
+.caracterizacion {
+    transition: color 0.3s;
+}
+
+.caracterizacion.active {
+    color: warning !important;
+}
